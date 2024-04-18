@@ -21,7 +21,7 @@ border:border-box;
 }
  
 .logo{
-	background-image: url("logo.png");
+	background-image: url("https://github.com/TheRealDeepak/Amazon-Clone/blob/main/logo.png?raw=true");
 	background-size:cover;
 	height:50px;
 	width:100%;
@@ -111,7 +111,7 @@ span{
 }
 
 .nav-cart{
-	font:size:0.85rem;
+	font-size:0.85rem;
 	font-weight:700;
 }
 
@@ -142,7 +142,7 @@ font-size:0.85rem;
 
 /** Hero section **/
 .hero-section{
-	background-image: url("hero_image.jpg");
+	background-image: url("https://github.com/TheRealDeepak/Amazon-Clone/blob/main/hero_image.jpg?raw=true");
 	background-size:cover;
 	height:350px;
 	display:flex;
@@ -247,7 +247,7 @@ ul a{
 }
 
 .logo{
-	background-image: url("logo.png");
+	background-image: url("https://github.com/TheRealDeepak/Amazon-Clone/blob/main/logo.png?raw=true");
 	background-size:cover;
 	height:50px;
 	width:100px;
